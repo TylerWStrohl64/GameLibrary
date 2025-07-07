@@ -1,0 +1,18 @@
+How To Manage Changes w/ Git & GitHub:
+	[first ensure that project has been setup properly]
+--------------
+git add --all
+
+git commit -m "[the message]"
+
+git push origin main
+	[this step will vary if different branches are used]
+
+
+===========================
+FOR COLLABORATIVE PROJECTS:
+===========================
+
+git pull
+	[should be done before any pushes]
+	[resolve any merge conflicts]
